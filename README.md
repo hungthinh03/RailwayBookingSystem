@@ -75,12 +75,12 @@
 
 ---
 
-## Interface Overview
+## 🖥️ Interface Overview
 
 ### Login Screen
 ![Login](screenshots/login.png)
 
-### 🏠 Home Screen  
+### Home Screen  
 ![Home Screen](screenshots/home.png)
 
 ### Customer Management
